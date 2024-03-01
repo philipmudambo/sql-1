@@ -1,5 +1,5 @@
 
-/* ## MS-SQL PROJECT on Banking Transactions by Gyan Kumar GM ! */
+/* ## MS-SQL PROJECT on Banking Transactions */
 
 -- PHASE I of project begins 
 
@@ -552,3 +552,5 @@ GO
 
 EXEC sp_Remove_Column;
 GO
+
+/* All credits to Gyan Kumar GM */
